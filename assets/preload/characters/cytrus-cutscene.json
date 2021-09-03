@@ -1,0 +1,51 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Symbol",
+			"indices": []
+		},
+		{
+			"offsets": [
+				134,
+				-2
+			],
+			"indices": [
+				72,
+				73,
+				74,
+				75,
+				76
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "Symbol 4"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/transform",
+	"position": [
+		0,
+		-120
+	],
+	"healthicon": "cytrus",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

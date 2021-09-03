@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cytrus.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cyrus left0000" x="0" y="0" width="480" height="902"/>
+	<SubTexture name="cyrus left0001" x="480" y="0" width="452" height="878" frameX="-26" frameY="-24" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0002" x="932" y="0" width="456" height="872" frameX="-21" frameY="-30" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0003" x="1388" y="0" width="444" height="874" frameX="-27" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0004" x="1832" y="0" width="440" height="875" frameX="-29" frameY="-27" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0005" x="2272" y="0" width="440" height="874" frameX="-29" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0006" x="2272" y="0" width="440" height="874" frameX="-29" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0007" x="2272" y="0" width="440" height="874" frameX="-29" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0008" x="2272" y="0" width="440" height="874" frameX="-29" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0009" x="2272" y="0" width="440" height="874" frameX="-29" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0010" x="2272" y="0" width="440" height="874" frameX="-29" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0011" x="2272" y="0" width="440" height="874" frameX="-29" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0012" x="2272" y="0" width="440" height="874" frameX="-29" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0013" x="2272" y="0" width="440" height="874" frameX="-29" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0014" x="2272" y="0" width="440" height="874" frameX="-29" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0015" x="2712" y="0" width="440" height="874" frameX="-29" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cyrus left0016" x="2712" y="0" width="440" height="874" frameX="-29" frameY="-28" frameWidth="480" frameHeight="902"/>
+	<SubTexture name="cytrusidle0000" x="3152" y="0" width="462" height="874" frameX="-11" frameY="0" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0001" x="3614" y="0" width="462" height="872" frameX="-11" frameY="-2" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0002" x="4076" y="0" width="462" height="871" frameX="-11" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0003" x="4538" y="0" width="462" height="871" frameX="-11" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0004" x="5000" y="0" width="462" height="871" frameX="-11" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0005" x="5462" y="0" width="462" height="872" frameX="-11" frameY="-2" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0006" x="5924" y="0" width="461" height="872" frameX="-11" frameY="-2" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0007" x="6385" y="0" width="461" height="872" frameX="-10" frameY="-2" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0008" x="6846" y="0" width="465" height="873" frameX="-5" frameY="-1" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0009" x="7311" y="0" width="468" height="873" frameX="-2" frameY="-1" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0010" x="0" y="902" width="469" height="871" frameX="-1" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0011" x="469" y="902" width="469" height="870" frameX="-1" frameY="-4" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0012" x="938" y="902" width="470" height="870" frameX="0" frameY="-4" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0013" x="1408" y="902" width="470" height="871" frameX="0" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0014" x="1878" y="902" width="470" height="871" frameX="0" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0015" x="2348" y="902" width="469" height="871" frameX="-1" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0016" x="2817" y="902" width="469" height="871" frameX="-3" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0017" x="3286" y="902" width="469" height="871" frameX="-4" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0018" x="3755" y="902" width="469" height="870" frameX="-4" frameY="-4" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0019" x="4224" y="902" width="469" height="870" frameX="-4" frameY="-4" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0020" x="4693" y="902" width="469" height="871" frameX="-4" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0021" x="5162" y="902" width="470" height="871" frameX="-3" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0022" x="5632" y="902" width="469" height="872" frameX="-3" frameY="-2" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0023" x="6101" y="902" width="469" height="872" frameX="-2" frameY="-2" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0024" x="6570" y="902" width="469" height="871" frameX="-1" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0025" x="7039" y="902" width="469" height="870" frameX="-1" frameY="-4" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0026" x="7508" y="902" width="469" height="871" frameX="-1" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0027" x="0" y="1774" width="470" height="871" frameX="0" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0028" x="470" y="1774" width="470" height="871" frameX="0" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="cytrusidle0029" x="940" y="1774" width="470" height="871" frameX="0" frameY="-3" frameWidth="473" frameHeight="874"/>
+	<SubTexture name="downcyt0000" x="1410" y="1774" width="719" height="720" frameX="0" frameY="-11" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0001" x="2129" y="1774" width="712" height="732" frameX="-7" frameY="0" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0002" x="2841" y="1774" width="705" height="731" frameX="-13" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0003" x="3546" y="1774" width="706" height="731" frameX="-12" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0004" x="4252" y="1774" width="707" height="731" frameX="-11" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0005" x="4959" y="1774" width="707" height="731" frameX="-11" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0006" x="5666" y="1774" width="707" height="731" frameX="-11" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0007" x="5666" y="1774" width="707" height="731" frameX="-11" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0008" x="5666" y="1774" width="707" height="731" frameX="-11" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0009" x="5666" y="1774" width="707" height="731" frameX="-11" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0010" x="5666" y="1774" width="707" height="731" frameX="-11" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0011" x="5666" y="1774" width="707" height="731" frameX="-11" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0012" x="5666" y="1774" width="707" height="731" frameX="-11" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0013" x="5666" y="1774" width="707" height="731" frameX="-11" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="downcyt0014" x="5666" y="1774" width="707" height="731" frameX="-11" frameY="-1" frameWidth="719" frameHeight="732"/>
+	<SubTexture name="rightcyt0000" x="6373" y="1774" width="608" height="828" frameX="0" frameY="-5" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0001" x="6981" y="1774" width="592" height="832" frameX="0" frameY="-2" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0002" x="7573" y="1774" width="577" height="833" frameX="0" frameY="0" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0003" x="0" y="2645" width="575" height="832" frameX="0" frameY="-6" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0004" x="575" y="2645" width="577" height="831" frameX="0" frameY="-9" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0005" x="1152" y="2645" width="579" height="831" frameX="0" frameY="-10" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0006" x="1152" y="2645" width="579" height="831" frameX="0" frameY="-10" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0007" x="1152" y="2645" width="579" height="831" frameX="0" frameY="-10" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0008" x="1152" y="2645" width="579" height="831" frameX="0" frameY="-10" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0009" x="1152" y="2645" width="579" height="831" frameX="0" frameY="-10" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0010" x="1152" y="2645" width="579" height="831" frameX="0" frameY="-10" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0011" x="1152" y="2645" width="579" height="831" frameX="0" frameY="-10" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0012" x="1152" y="2645" width="579" height="831" frameX="0" frameY="-10" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0013" x="1152" y="2645" width="579" height="831" frameX="0" frameY="-10" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0014" x="1152" y="2645" width="579" height="831" frameX="0" frameY="-10" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="rightcyt0015" x="1731" y="2645" width="579" height="831" frameX="0" frameY="-10" frameWidth="608" frameHeight="841"/>
+	<SubTexture name="upcyt0000" x="2310" y="2645" width="544" height="880" frameX="0" frameY="0" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0001" x="2854" y="2645" width="486" height="875" frameX="-35" frameY="-5" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0002" x="3340" y="2645" width="430" height="872" frameX="-71" frameY="-9" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0003" x="3770" y="2645" width="422" height="877" frameX="-76" frameY="-4" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0004" x="4192" y="2645" width="421" height="879" frameX="-78" frameY="-2" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0005" x="4613" y="2645" width="421" height="879" frameX="-79" frameY="-2" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0006" x="5034" y="2645" width="421" height="879" frameX="-79" frameY="-2" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0007" x="5034" y="2645" width="421" height="879" frameX="-79" frameY="-2" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0008" x="5034" y="2645" width="421" height="879" frameX="-79" frameY="-2" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0009" x="5034" y="2645" width="421" height="879" frameX="-79" frameY="-2" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0010" x="5034" y="2645" width="421" height="879" frameX="-79" frameY="-2" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0011" x="5034" y="2645" width="421" height="879" frameX="-79" frameY="-2" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0012" x="5034" y="2645" width="421" height="879" frameX="-79" frameY="-2" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0013" x="5034" y="2645" width="421" height="879" frameX="-79" frameY="-2" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0014" x="5034" y="2645" width="421" height="879" frameX="-79" frameY="-2" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0015" x="5455" y="2645" width="421" height="879" frameX="-79" frameY="-2" frameWidth="544" frameHeight="881"/>
+	<SubTexture name="upcyt0016" x="5455" y="2645" width="421" height="879" frameX="-79" frameY="-2" frameWidth="544" frameHeight="881"/>
+</TextureAtlas>
